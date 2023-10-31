@@ -65,7 +65,7 @@ html,body{
     width: 100%;
     /* background-color: rgb(214, 184, 184); */
     display: flex;
-    justify-content: sp;
+    justify-content: space-between;
     
 }
 
